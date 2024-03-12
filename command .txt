@@ -1,0 +1,7 @@
+# animated-fortnight
+helpful command
+sudo addgroup = it is to add some in group
+sudo chown = it is change the owner
+sudo usermod -g Group User (-g is the primary group) (User)
+sudo usermod -aG group user (-G is a supplementary group of which user in the group)
+cat /etc/group |grep'^dbda' (it is used for searching letter ignoring its palce)
